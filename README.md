@@ -1,6 +1,7 @@
 # cypress-cucumber-saucedemo
 saucedemo.com test automation with Cypress 10+ and Cucumber
 
+
 ## Prerequisites
 - NodeJS `https://nodejs.org/en/download` 
 - Cypress `npm install cypress --save-dev`
